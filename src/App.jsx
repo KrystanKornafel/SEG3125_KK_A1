@@ -10,6 +10,8 @@ function App() {
   return (
         <div className="container mt-5">
             <div className="mb-5">
+              {/* Colour codes can be found from here: https://www.w3schools.com/html/html_colors_hex.asp */}
+              {/* Customization tutorial I used can be found here: https://stackoverflow.com/questions/62917079/react-bootstrap-rounded-corners-for-navbar */}
               <div className="border rounded p-3 mb-4"style={{ backgroundColor: "#C8B6FF", border: "1px solid #334155" }}>
                 <h1>Welcome to my website!</h1>
               </div>
