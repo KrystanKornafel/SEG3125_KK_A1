@@ -1,6 +1,8 @@
 //import { Routes, Route, Link } from "react-router-dom";
 import './App.css'
-
+{/*Name: Krystan Kornafel*/}
+{/*Assignment: SEG3125 Assignment 1 */}
+{/*Description: This is the main React page that will be used to display all the required information. There are 4 cards that can be clicked on. Each one will redirect the user to the specified page. */}
 
 
 function App() {
